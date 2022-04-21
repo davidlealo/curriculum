@@ -1,23 +1,31 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:weight@100;200;300;400;500;600;700;800&display=swap");
+@media only screen and (min-width: 600px) {
 
-body {
-    background-color: #545454;
-    font-family: "Poppins", sans-serif;
-    font-weight: 300
-}
-
-.nombre-david-leal{
+    body {
+        background-color: #545454;
+        font-family: "Poppins", sans-serif;
+        font-weight: 300
+    }
     
-}
-
-.profile-images{
+    .nombre-david-leal{
+        
+    }
     
-}
+    .profile-images{
+        
+    }
+    
+    .photo-header-max{
+        
+    }
+    
+    .profile-picture-david{
+        width: 40vmax;
+        margin-top: 20%;
+        margin-left: 2em;
+    }
 
-.photo-header-max{
-    height: 20vmax;
-}
+    .text-presentation{
+        margin-top: 10%;
+    }
 
-.profile-picture-david{
-    width: 20vmax;
 }

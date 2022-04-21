@@ -9,12 +9,7 @@
     .nombre-david-leal{
         
     }
-    
-    .profile-images{
 
-        margin: 10%;
-        
-    }
     
     .photo-header-max{
         
@@ -29,6 +24,11 @@
     .text-presentation{
         margin-top: 23%;
         margin-left: 10%;
+    }
+
+    .margin-box-information{
+        margin-left: 10%;
+        margin-right: 10%;
     }
 
 }

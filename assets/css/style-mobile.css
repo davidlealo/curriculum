@@ -17,5 +17,13 @@
         align-items: center;
         margin-top: 20%;
     }
+
+    .footer-website-cv{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        margin-top: 5%;
+        margin-bottom: 10%;
+    }
 }
 
